@@ -10,4 +10,6 @@ São três classes criadas:
 * A segunda é uma classe de "coleção" da classe base.
 * A terceira é uma classe contendo os métodos para acesso a dados (DAO) da tabela, tais como "Adiciona", "Atualiza", "Exclui" etc.
 
-É uma forma simples de tornar a programação de dados no VB em uma forma emorientada a objetos".
+É uma forma simples de tornar a programação de dados no VB em uma forma "orientada a objetos".
+
+Bônus: um módulo .bas com diversas rotinas para lidar com o Microsoft ADO, como abertura de conexões, recordsets (inclusive recordsets desconectados) etc.
